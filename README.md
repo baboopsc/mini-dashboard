@@ -1,14 +1,14 @@
-\# Mini-Dashboard Projesi 🚀
+\# Mini-Dashboard Projesi 
 
 Bu proje, Git ile iş birliği ve çakışma (conflict) yönetimi üzerine bir eğitim ödevi olarak hazırlanmıştır.
 
 
 
-\## 👥 Ekip Üyeleri
+\##  Ekip Üyeleri
 
-\- \*\*Öğrenci A (Entegrasyon Lideri):\*\* Ali Muhsin (@baboopsc)
+\- \*\*Öğrenci A (Entegrasyon Lideri):\*\* Ali Muhsin  23253007 (@baboopsc)
 
-\- \*\*Öğrenci B (Modül Geliştirici):\*\* Okan Karahan (@oklies37)
+\- \*\*Öğrenci B (Modül Geliştirici):\*\* Okan Karahan 23253035 (@oklies37)
 
 
 
@@ -22,7 +22,7 @@ Bu proje, Git ile iş birliği ve çakışma (conflict) yönetimi üzerine bir e
 
 
 
-\## 📌 Öğrenilen Kazanımlar
+\##  Öğrenilen Kazanımlar
 
 \- GitHub üzerinde \*\*Collaborator\*\* yönetimi.
 
@@ -36,7 +36,6 @@ Bu proje, Git ile iş birliği ve çakışma (conflict) yönetimi üzerine bir e
 
 ---
 
-\*Bu ödev Gemini yardımıyla tamamlanmıştır.\*
 
 
 
