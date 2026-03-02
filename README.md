@@ -12,7 +12,7 @@ Bu proje, Git ile iş birliği ve çakışma (conflict) yönetimi üzerine bir e
 
 
 
-\## 🛠️ Proje Yapısı
+\##  Proje Yapısı
 
 \- `main.py`: Uygulamanın ana giriş noktası. Modülleri birleştirir.
 
